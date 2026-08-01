@@ -1,1 +1,1 @@
-This is Tristan's Turn Based Strategy Game
+This contains Tristan's Strategy Game and Tristan Platformer
