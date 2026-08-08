@@ -1,1 +1,1 @@
-This contains Tristan's Strategy Game and Tristan Platformer (alpha)
+This contains Tristan's Strategy Game and Tristan's Platformer (alpha)
